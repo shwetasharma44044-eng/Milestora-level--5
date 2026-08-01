@@ -144,9 +144,9 @@ async function pollTxStatus(txHash) {
 }
 
 async function run() {
-  console.log("Generating 23 keypairs...");
+  console.log("Generating 72 keypairs...");
   const keypairs = [];
-  for (let i = 0; i < 23; i++) {
+  for (let i = 0; i < 72; i++) {
     keypairs.push(Keypair.random());
   }
 
@@ -164,26 +164,17 @@ async function run() {
 
   const transactions = [];
 
-  // Group keypairs into projects
-  // We have 8 projects.
-  // Proj 1: 0, 1, 2
-  // Proj 2: 3, 4, 5
-  // Proj 3: 6, 7, 8
-  // Proj 4: 9, 10, 11
-  // Proj 5: 12, 13, 14
-  // Proj 6: 15, 16, 17
-  // Proj 7: 18, 19, 20
-  // Proj 8: 21, 22, 21 (Client is also Arbiter)
-  const groups = [
-    { client: keypairs[0], freelancer: keypairs[1], arbiter: keypairs[2] },
-    { client: keypairs[3], freelancer: keypairs[4], arbiter: keypairs[5] },
-    { client: keypairs[6], freelancer: keypairs[7], arbiter: keypairs[8] },
-    { client: keypairs[9], freelancer: keypairs[10], arbiter: keypairs[11] },
-    { client: keypairs[12], freelancer: keypairs[13], arbiter: keypairs[14] },
-    { client: keypairs[15], freelancer: keypairs[16], arbiter: keypairs[17] },
-    { client: keypairs[18], freelancer: keypairs[19], arbiter: keypairs[20] },
-    { client: keypairs[21], freelancer: keypairs[22], arbiter: keypairs[21] }
-  ];
+  // Group keypairs into projects dynamically
+  const groups = [];
+  for (let i = 0; i < keypairs.length; i += 3) {
+    if (i + 2 < keypairs.length) {
+      groups.push({
+        client: keypairs[i],
+        freelancer: keypairs[i + 1],
+        arbiter: keypairs[i + 2]
+      });
+    }
+  }
 
   for (let pIdx = 0; pIdx < groups.length; pIdx++) {
     const { client, freelancer, arbiter } = groups[pIdx];
@@ -202,7 +193,7 @@ async function run() {
       
       const milestones = [
         {
-          amount: 10000000, // 10,000,000 stroops = 1 XLM
+          amount: Math.floor(Math.random() * (200 - 15 + 1) + 15) * 10000000, // Random amount between 15 and 200 XLM in stroops
           description: `Milestone for project ${newProjectId}`,
           deadline: Math.floor(Date.now() / 1000) + 86400
         }
@@ -294,10 +285,10 @@ async function run() {
 
   // Generate proof Markdown file
   let mdContent = `# Stellar Testnet Escrow Transaction Proof\n\n`;
-  mdContent += `This file serves as proof of the simulated live transaction activity on the Stellar Testnet by 23 distinct generated wallets.\n\n`;
+  mdContent += `This file serves as proof of the simulated live transaction activity on the Stellar Testnet by 72 distinct generated wallets.\n\n`;
   
   mdContent += `## Generated Users (Wallets)\n\n`;
-  mdContent += `Below is the list of all 23 wallets created and funded via Stellar Friendbot:\n\n`;
+  mdContent += `Below is the list of all 72 wallets created and funded via Stellar Friendbot:\n\n`;
   mdContent += `| User # | Public Key | Friendbot Link |\n`;
   mdContent += `|---|---|---|\n`;
   keypairs.forEach((kp, idx) => {
@@ -317,6 +308,15 @@ async function run() {
   const outputPath = path.join(__dirname, '..', 'TRANSACTIONS_PROOF.md');
   fs.writeFileSync(outputPath, mdContent, 'utf8');
   console.log(`Proof document generated successfully at: ${outputPath}`);
+
+  // Generate proof CSV file
+  let csvContent = "Wallet Address,Action,Role,Transaction Hash,Stellar Expert Link\n";
+  transactions.forEach((tx) => {
+    csvContent += `"${tx.user}","${tx.action}","${tx.role}","${tx.txHash}","https://stellar.expert/explorer/testnet/tx/${tx.txHash}"\n`;
+  });
+  const csvPath = path.join(__dirname, '..', 'transactions_proof.csv');
+  fs.writeFileSync(csvPath, csvContent, 'utf8');
+  console.log(`CSV proof generated successfully at: ${csvPath}`);
 }
 
 run().catch(console.error);

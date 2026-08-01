@@ -16,9 +16,9 @@ Designed for freelancers, independent contractors, small agencies, and clients, 
 
 ## 🌐 Live Demo & Deliverables
 
-*   **Live Web Application**: `[LIVE_DEMO_URL]`
+*   **Live Web Application**: [milestora-level-5.vercel.app](https://milestora-level-5.vercel.app/)
 *   **Pitch Deck Presentation**: `[PITCH_DECK_LINK]`
-*   **Demo Video Walkthrough**: `[DEMO_VIDEO_LINK]` *(1-2 minute walkthrough of key user flows)*
+*   **Demo Video Walkthrough**: [Watch Video Demo](https://photos.app.goo.gl/3M9ijczYUV84aeeo9) *(1-2 minute walkthrough of key user flows)*
 
 ---
 
@@ -242,12 +242,12 @@ Milestora has been upgraded to a production-grade Level 5 application with a fre
 
 ## 📸 Screenshots
 
-*   `[SCREENSHOT: new landing page]`  -  ![alt text](image.png)
-*   `[SCREENSHOT: redesigned dashboard - desktop]` - ![alt text](image-1.png)
-*   `[SCREENSHOT: mobile responsive UI]` -   ![alt text](image-2.png)
-*   `[SCREENSHOT: activity timeline / notifications]` - ![alt text](image-3.png)
-*   `[SCREENSHOT: analytics dashboard showing real usage]` - ![alt text](image-4.png)
-
+*   **New Landing Page**: ![Landing Page](image.png)
+*   **Redesigned Dashboard (Desktop)**: ![Dashboard Desktop](image-1.png)
+*   **Mobile Responsive UI**: ![Mobile UI](image-2.png)
+*   **Activity Timeline & Notifications**: ![Timeline & Notifications](image-3.png)
+*   **Analytics Dashboard (Real Usage)**: ![Analytics Dashboard](image-4.png)
+*   **Stellar Testnet Transaction Proof**: ![Transaction Proof](image-5.png)
 ---
 
 ## 📈 User Growth & Activity
