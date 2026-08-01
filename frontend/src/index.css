@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-darkBg: #060913;
+  --color-darkCard: #0e1324;
+  --color-darkBorder: #1f293d;
+  
+  --color-accent-50: #fbf8f3;
+  --color-accent-100: #f6edd9;
+  --color-accent-200: #ecd7b0;
+  --color-accent-300: #dfba7f;
+  --color-accent-400: #d19a51;
+  --color-accent-500: #c17d2f;
+  --color-accent-600: #a76223;
+  --color-accent-700: #8b4a1c;
+  --color-accent-800: #713c19;
+  --color-accent-900: #5d3217;
+  
+  --color-freelancerGreen: #10b981;
+  --color-clientPurple: #8b5cf6;
+  --color-disputeRed: #ef4444;
+}
+
+:root {
+  --bg-primary: #060913;
+  --bg-card: rgba(14, 19, 36, 0.7);
+  --border-color: rgba(31, 41, 61, 0.6);
+  --text-primary: #f3f4f6;
+  --text-secondary: #9ca3af;
+  --accent-gold: #d19a51;
+  --accent-lumen: #3b82f6;
+  --glass-blend: rgba(14, 19, 36, 0.4);
+}
+
+.light-theme {
+  --bg-primary: #f8fafc;
+  --bg-card: rgba(255, 255, 255, 0.85);
+  --border-color: rgba(226, 232, 240, 0.8);
+  --text-primary: #0f172a;
+  --text-secondary: #475569;
+  --accent-gold: #b45309;
+  --accent-lumen: #2563eb;
+  --glass-blend: rgba(255, 255, 255, 0.5);
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-primary);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-secondary);
+}
+
+/* Glassmorphism Classes */
+.glass {
+  background: var(--bg-card);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--border-color);
+}
+
+.glass-card {
+  background: var(--glass-blend);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  transition: all 0.2s ease-in-out;
+}
+
+.glass-card:hover {
+  border-color: var(--accent-gold);
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px -10px rgba(0, 0, 0, 0.3);
+}
+
+/* Shimmer Animation for Skeleton Loader */
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.skeleton {
+  background: linear-gradient(90deg, var(--bg-primary) 25%, var(--border-color) 50%, var(--bg-primary) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+/* Badge Glow effects */
+.glow-gold {
+  box-shadow: 0 0 15px rgba(209, 154, 81, 0.2);
+}
+
+.glow-blue {
+  box-shadow: 0 0 15px rgba(59, 130, 246, 0.25);
+}
+
+/* Timeline Custom styles */
+.timeline-line {
+  position: relative;
+}
+.timeline-line::before {
+  content: '';
+  position: absolute;
+  left: 15px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background-color: var(--border-color);
+}
+
