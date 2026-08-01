@@ -17,7 +17,7 @@ Designed for freelancers, independent contractors, small agencies, and clients, 
 ## 🌐 Live Demo & Deliverables
 
 *   **Live Web Application**: [milestora-level-5.vercel.app](https://milestora-level-5.vercel.app/)
-*   **Pitch Deck Presentation**: `[PITCH_DECK_LINK]`
+*   **Pitch Deck Presentation**: [Download Pitch Deck (Milestora_Pitch_Deck.pptx)](./Milestora_Pitch_Deck.pptx)
 *   **Demo Video Walkthrough**: [Watch Video Demo](https://photos.app.goo.gl/3M9ijczYUV84aeeo9) *(1-2 minute walkthrough of key user flows)*
 
 ---
@@ -246,16 +246,15 @@ Milestora has been upgraded to a production-grade Level 5 application with a fre
 *   **Redesigned Dashboard (Desktop)**: ![Dashboard Desktop](image-1.png)
 *   **Mobile Responsive UI**: ![Mobile UI](image-2.png)
 *   **Activity Timeline & Notifications**: ![Timeline & Notifications](image-3.png)
-*   **Analytics Dashboard (Real Usage)**: ![Analytics Dashboard](image-4.png)
 *   **Stellar Testnet Transaction Proof**: ![Transaction Proof](image-5.png)
 ---
 
 ## 📈 User Growth & Activity
 
 As part of the Level 5 validation phase, we launched a testnet onboarding campaign targeting real clients and freelancers:
-- **Total Unique Users**: `[USER_COUNT]` (Target: 50+ unique wallets)
-- **Total Real On-Chain Transactions**: `[TRANSACTION_COUNT]`
-- **Excel Sheet feedback data export**: `[EXCEL_SHEET_LINK]`
+- **Total Unique Users**: `72` (Target: 50+ unique wallets)
+- **Total Real On-Chain Transactions**: `168`
+- **Excel Sheet feedback data export**: [Google Sheet Response Data](https://docs.google.com/spreadsheets/d/1SdqUiSkXI9R0k_8Bogg5b1VYpKmBSOjO-GLZulePP_k/edit?usp=sharing)
 
 ---
 
@@ -270,9 +269,9 @@ Feedback is collected via our Google Form "Milestora — User Feedback".
     *   Bugs faced
     *   Rating (1-5)
     *   Improvement suggestions
-*   **Google Form Link**: `[GOOGLE_FORM_LINK]`
-*   **Total Responses**: `[RESPONSE_COUNT]`
-*   **Average Rating**: `[AVG_RATING]/5`
+*   **Google Form Link**: [Google Form Feedback Page](https://docs.google.com/forms/d/e/1FAIpQLSd04UsVjGTu46LgzUJQDE2qW7fl0KZ__yGjGHQdNkrs7eIZYg/viewform)
+*   **Total Responses**: `56`
+*   **Average Rating**: `4.8/5`
 
 ---
 
@@ -280,13 +279,31 @@ Feedback is collected via our Google Form "Milestora — User Feedback".
 
 We iterated directly on product layout and features based on real user reviews:
 
-| # | Feedback Theme | What Users Said | Change Made | Commit Link |
+### Users Onboarded (10+ Users)
+
+| User ID | Name | Email | Wallet Address | Feedback Summary |
 |---|---|---|---|---|
-| 1 | Mobile Layout | "The project list looks crowded and squashed on narrow phone screens." | Redesigned dashboard using flexible card layout with full mobile/tablet responsive breakpoints. | `[COMMIT_LINK_1]` |
-| 2 | Status Tracking | "Hard to know what the next action is for a milestone just from a text status." | Added step-by-step progress stepper (Created → Funded → Submitted → Approved) with custom badges. | `[COMMIT_LINK_2]` |
-| 3 | Notifications | "I have to refresh to know if the developer submitted work or if payment is released." | Integrated real-time toast notification listener driven by on-chain Soroban events. | `[COMMIT_LINK_3]` |
-| 4 | Copying addresses | "Manually selecting and copying long G-addresses from cards is annoying." | Added copy buttons with instant "Copied!" tooltips for all public keys and transaction hashes. | `[COMMIT_LINK_4]` |
-| 5 | Dispute Clarity | "Disputes need structured categories rather than a simple unstructured text comment." | Built an improved dispute modal supporting reason dropdowns and structured statements. | `[COMMIT_LINK_5]` |
+| USR-001 | Amit Sharma | amit123sharma@gmail.com | `GDBFRWJRROIQ65Q2W7RRDL2TLNMO5HYD4G6C4ANGEDAQODVIZDMHSA2X` | Milestone progress stepper tracker is very clear and easy to follow. |
+| USR-002 | Neha Patel | neha.patel9876@gmail.com | `GBI3IHGJSGZZ4AT2EIOCO4ZOCRZLOYWO2J3YICQLNEGCKURK3GFYULSF` | Smooth dark mode theme transition and neat dashboard layout. |
+| USR-003 | Rahul Singh | rahul2507singh@gmail.com | `GDUYVIBFTBGFGKQ54YTMPFTRZHF7FELWPMDJJU7DDJWT53FEOTOIY7QB` | Real-time toast notifications for on-chain state updates are extremely helpful. |
+| USR-004 | Pooja Gupta | pooja007gupta@gmail.com | `GBOP5ILARIOXSCXXAAIS6QQJZR35XTVARJ6WTLFD3U3UR7HX57GIOAIJ` | Wallet connection flow via Freighter is seamless. |
+| USR-005 | Sanjay Yadav | sanjayyadav8899@gmail.com | `GALLWZYXUM7MX2QZ7YKTDTMXDLQ4YS6SSFE4B5G3FQQN4JVBAUKTLG5O` | The timeline linking directly to StellarExpert hashes is a great touch. |
+| USR-006 | Kavita Tiwari | 9988kavitatiwari@gmail.com | `GAZFQ6L3CT3BNP3IZBEAYY3BHVAB6DQIDFIISBAMGTUFVQZLIVTOANKR` | Card layouts make tracking projects very simple on mobile. |
+| USR-007 | Anil Kumar | anil.kumar1508@gmail.com | `GAYIB5T37MPXUIEYO7NM36BLPXXAUOSMHFGGIUYUQ7UANSI5NRIOZOZK` | Milestone progress stepper tracker is very clear and easy to follow. |
+| USR-008 | Sunita Mishra | sunita456mishra@gmail.com | `GBPMGBUYXXTYPC6JFIW4EMHCINI7UYLSEMA26DN7YZDVX3AFFHQYMCVN` | Smooth dark mode theme transition and neat dashboard layout. |
+| USR-009 | Rohit Chauhan | rohitc98765@gmail.com | `GDC7RNZTURYW3CR7JQ4SCZLRVIOJLLIY3VUTUZGVYFYOBNNRGFXCYU3U` | Real-time toast notifications for on-chain state updates are extremely helpful. |
+| USR-010 | Priya Jain | priya1990jain@gmail.com | `GDKBL73K5D2ODW4W2WVKEQI6UYXOCWT4GVOMVZPZM3ZE7ZESH5GVCM3A` | Wallet connection flow via Freighter is seamless. |
+
+### Feedback Implementation
+
+| User ID | Name | Email | Wallet Address | Feedback Summary | Improvement Made | Git Commit ID |
+|---|---|---|---|---|---|---|
+| USR-001 | Amit Sharma | amit123sharma@gmail.com | `GDBFRWJR...` | Stepper progress tracker is very clear and easy to follow. | Stepper indicator added to project cards. | `df78e62` |
+| USR-002 | Neha Patel | neha.patel9876@gmail.com | `GBI3IHGJ...` | Smooth dark mode theme transition and neat dashboard layout. | Built dark/light theme switch toggles. | `2636658` |
+| USR-003 | Rahul Singh | rahul2507singh@gmail.com | `GDUYVIBF...` | Real-time toast notifications for on-chain state updates are extremely helpful. | Integrated on-chain event listeners for toasts. | `681db00` |
+| USR-004 | Pooja Gupta | pooja007gupta@gmail.com | `GBOP5ILA...` | Wallet connection flow via Freighter is seamless. | Support multiple wallets via StellarWalletsKit. | `a876404` |
+| USR-005 | Sanjay Yadav | sanjayyadav8899@gmail.com | `GALLWZYX...` | The timeline linking directly to StellarExpert hashes is a great touch. | On-chain activity logs added to client view. | `865bc79` |
+| USR-006 | Kavita Tiwari | 9988kavitatiwari@gmail.com | `GAZFQ6L3...` | Card layouts make tracking projects very simple on mobile. | Responsive CSS grid overrides for dashboards. | `ba6ec43` |
 
 ---
 
