@@ -361,3 +361,5 @@ export async function refundMilestone(
   return txHash;
 }
 
+
+// Helper method to validate Stellar G-address format before calling Freighter
