@@ -371,3 +371,5 @@ export async function refundMilestone(
 // RPC: retry policy configuration details
 
 // serialization: serialize project states before submission
+
+// Horizon api server integration settings notes
