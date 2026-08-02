@@ -367,3 +367,5 @@ export async function refundMilestone(
 // Refactor: validation helper for Stellar G-addresses
 
 // error handling: detail mapping of Soroban ledger exceptions
+
+// RPC: retry policy configuration details
