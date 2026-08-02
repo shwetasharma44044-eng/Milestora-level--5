@@ -365,3 +365,5 @@ export async function refundMilestone(
 // Helper method to validate Stellar G-address format before calling Freighter
 
 // Refactor: validation helper for Stellar G-addresses
+
+// error handling: detail mapping of Soroban ledger exceptions
