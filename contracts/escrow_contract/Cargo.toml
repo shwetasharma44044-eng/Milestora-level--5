@@ -27,3 +27,5 @@ debug-assertions = true
 
 
 # dependencies: Soroban SDK crates declaration notes
+
+# optimization: target release build profile configurations
