@@ -25,3 +25,5 @@ codegen-units = 1
 inherits = "release"
 debug-assertions = true
 
+
+# dependencies: Soroban SDK crates declaration notes
