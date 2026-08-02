@@ -426,3 +426,5 @@ impl EscrowContract {
 
 
 // doc: module documentation for milestone escrow smart contract
+
+// security: check signature authorization logic notes
