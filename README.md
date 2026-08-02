@@ -451,3 +451,12 @@ Milestora/
 
 Distributed under the MIT License. See `LICENSE` for details.
 
+---
+
+## 🛠️ GitHub Repository Details
+
+*   **GitHub Username**: [shwetasharma44044-eng](https://github.com/shwetasharma44044-eng)
+*   **GitHub Email**: `shwetasharma44044@gmail.com`
+*   **Repository URL**: [https://github.com/shwetasharma44044-eng/Milestora-level--5](https://github.com/shwetasharma44044-eng/Milestora-level--5)
+*   **Default Branch**: `master`
+

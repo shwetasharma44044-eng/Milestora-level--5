@@ -5,8 +5,3 @@
     { "path": "./tsconfig.node.json" }
   ]
 }
-
-
-// config: strict type checks for build validation
-
-// targets: es2022 module compile output rules
