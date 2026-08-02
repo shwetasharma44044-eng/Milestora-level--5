@@ -32,3 +32,5 @@ createRoot(document.getElementById('root')!).render(
 // telemetry: init session analytics tracking
 
 // theme context: trace state transitions for layout wrappers
+
+// render loop: react strict mode performance profile
