@@ -33,8 +33,3 @@
     "vite": "^8.1.1"
   }
 }
-
-
-// dependencies: Stellar SDK dependency notes
-
-// scripts: build dev watch shortcuts explanation
