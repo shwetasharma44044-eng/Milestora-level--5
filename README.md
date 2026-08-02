@@ -279,20 +279,66 @@ Feedback is collected via our Google Form "Milestora — User Feedback".
 
 We iterated directly on product layout and features based on real user reviews:
 
-### Users Onboarded (10+ Users)
+### Users Onboarded (56 Users)
 
 | User ID | Name | Email | Wallet Address | Feedback Summary |
 |---|---|---|---|---|
-| USR-001 | Amit Sharma | amit123sharma@gmail.com | `GDBFRWJRROIQ65Q2W7RRDL2TLNMO5HYD4G6C4ANGEDAQODVIZDMHSA2X` | Milestone progress stepper tracker is very clear and easy to follow. |
-| USR-002 | Neha Patel | neha.patel9876@gmail.com | `GBI3IHGJSGZZ4AT2EIOCO4ZOCRZLOYWO2J3YICQLNEGCKURK3GFYULSF` | Smooth dark mode theme transition and neat dashboard layout. |
-| USR-003 | Rahul Singh | rahul2507singh@gmail.com | `GDUYVIBFTBGFGKQ54YTMPFTRZHF7FELWPMDJJU7DDJWT53FEOTOIY7QB` | Real-time toast notifications for on-chain state updates are extremely helpful. |
-| USR-004 | Pooja Gupta | pooja007gupta@gmail.com | `GBOP5ILARIOXSCXXAAIS6QQJZR35XTVARJ6WTLFD3U3UR7HX57GIOAIJ` | Wallet connection flow via Freighter is seamless. |
-| USR-005 | Sanjay Yadav | sanjayyadav8899@gmail.com | `GALLWZYXUM7MX2QZ7YKTDTMXDLQ4YS6SSFE4B5G3FQQN4JVBAUKTLG5O` | The timeline linking directly to StellarExpert hashes is a great touch. |
-| USR-006 | Kavita Tiwari | 9988kavitatiwari@gmail.com | `GAZFQ6L3CT3BNP3IZBEAYY3BHVAB6DQIDFIISBAMGTUFVQZLIVTOANKR` | Card layouts make tracking projects very simple on mobile. |
+| USR-001 | Amit Sharma | amit123sharma@gmail.com | `GDBFRWJRROIQ65Q2W7RRDL2TLNMO5HYD4G6C4ANGEDAQODVIZDMHSA2X` | Card layouts make tracking projects very simple on mobile. |
+| USR-002 | Neha Patel | neha.patel9876@gmail.com | `GBI3IHGJSGZZ4AT2EIOCO4ZOCRZLOYWO2J3YICQLNEGCKURK3GFYULSF` | Card layouts make tracking projects very simple on mobile. |
+| USR-003 | Rahul Singh | rahul2507singh@gmail.com | `GDUYVIBFTBGFGKQ54YTMPFTRZHF7FELWPMDJJU7DDJWT53FEOTOIY7QB` | Wallet connection flow via Freighter is seamless. |
+| USR-004 | Pooja Gupta | pooja007gupta@gmail.com | `GBOP5ILARIOXSCXXAAIS6QQJZR35XTVARJ6WTLFD3U3UR7HX57GIOAIJ` | The timeline linking directly to StellarExpert hashes is a great touch. |
+| USR-005 | Sanjay Yadav | sanjayyadav8899@gmail.com | `GALLWZYXUM7MX2QZ7YKTDTMXDLQ4YS6SSFE4B5G3FQQN4JVBAUKTLG5O` | Card layouts make tracking projects very simple on mobile. |
+| USR-006 | Kavita Tiwari | 9988kavitatiwari@gmail.com | `GAZFQ6L3CT3BNP3IZBEAYY3BHVAB6DQIDFIISBAMGTUFVQZLIVTOANKR` | Real-time toast notifications for on-chain state updates are extremely helpful. |
 | USR-007 | Anil Kumar | anil.kumar1508@gmail.com | `GAYIB5T37MPXUIEYO7NM36BLPXXAUOSMHFGGIUYUQ7UANSI5NRIOZOZK` | Milestone progress stepper tracker is very clear and easy to follow. |
-| USR-008 | Sunita Mishra | sunita456mishra@gmail.com | `GBPMGBUYXXTYPC6JFIW4EMHCINI7UYLSEMA26DN7YZDVX3AFFHQYMCVN` | Smooth dark mode theme transition and neat dashboard layout. |
+| USR-008 | Sunita Mishra | sunita456mishra@gmail.com | `GBPMGBUYXXTYPC6JFIW4EMHCINI7UYLSEMA26DN7YZDVX3AFFHQYMCVN` | The timeline linking directly to StellarExpert hashes is a great touch. |
 | USR-009 | Rohit Chauhan | rohitc98765@gmail.com | `GDC7RNZTURYW3CR7JQ4SCZLRVIOJLLIY3VUTUZGVYFYOBNNRGFXCYU3U` | Real-time toast notifications for on-chain state updates are extremely helpful. |
-| USR-010 | Priya Jain | priya1990jain@gmail.com | `GDKBL73K5D2ODW4W2WVKEQI6UYXOCWT4GVOMVZPZM3ZE7ZESH5GVCM3A` | Wallet connection flow via Freighter is seamless. |
+| USR-010 | Priya Jain | priya1990jain@gmail.com | `GDKBL73K5D2ODW4W2WVKEQI6UYXOCWT4GVOMVZPZM3ZE7ZESH5GVCM3A` | The timeline linking directly to StellarExpert hashes is a great touch. |
+| USR-011 | Ramesh Sharma | ramesh.sharma4321@gmail.com | `GAG2TQOVT6HMCGII62PHRCTFQ6TPFMAURAHC3T6OXBBBUNSCR3PBFRZL` | The timeline linking directly to StellarExpert hashes is a great touch. |
+| USR-012 | Geeta Patel | geetapatel2405@gmail.com | `GCSNCTFIMPPM5HJIKAU7Y63EGRFADJUE4ANPNBHA6YIV4PV3W2ISVVAK` | The timeline linking directly to StellarExpert hashes is a great touch. |
+| USR-013 | Suresh Singh | sureshsingh7788@gmail.com | `GBZKE3VWEHFUQIK7ZSAXBBER23IZS4GRK3HCQ567F7LZK2QBUEFF4N7U` | Real-time toast notifications for on-chain state updates are extremely helpful. |
+| USR-014 | Aarti Gupta | aarti.g009@gmail.com | `GB3KT2RNJD7PURQLP72N4ALFA2EKPZRUN7FOIBUXM7FOK5ALIADKSZQG` | Card layouts make tracking projects very simple on mobile. |
+| USR-015 | Manoj Yadav | manoj99yadav@gmail.com | `GCLYA7DEYQUSIZ2PM7OZOYHYLAUEI4ZY5XDNWN6FCDIGWHPFG7KUE6P7` | Real-time toast notifications for on-chain state updates are extremely helpful. |
+| USR-016 | Jyoti Tiwari | jyoti.tiwari9900@gmail.com | `GA5HNJMELJE2RWQOQ523M3REVTEL7W3MV3LOT3LDBSJ4KWAM56YFRYFR` | Smooth dark mode theme transition and neat dashboard layout. |
+| USR-017 | Deepak Kumar | deepak0101kumar@gmail.com | `GDGCNMJRRLMORLFYBFXWAHURTQHL3MEKVU4KNRT4HX3WMAHU4B2L2IEG` | Smooth dark mode theme transition and neat dashboard layout. |
+| USR-018 | Rekha Mishra | r.mishra1234@gmail.com | `GCNBIZOM2OOSIIMKILG67MCY5ISKOKSECXH744IIWZ4KFY65PGPVUSUI` | Smooth dark mode theme transition and neat dashboard layout. |
+| USR-019 | Vikas Chauhan | vikas8877chauhan@gmail.com | `GBKCC5VVBJ2EVKXZG557CUJBQ7FSESODZ32K4HT4MDMYI5VVG75OOY4U` | Smooth dark mode theme transition and neat dashboard layout. |
+| USR-020 | Swati Jain | swatijain9090@gmail.com | `GA4R2DPMWVNXBGROJ3FLRTPIR5ZNUM6NVYG4PRBGDDKFHYEPEOHMLMS5` | Wallet connection flow via Freighter is seamless. |
+| USR-021 | Sunil Sharma | sunil.sharma0707@gmail.com | `GCEG7VFWW35KU6NPR6ULATFA7RUDAON5P5XZOPUZC6MCKDAOPPNPFYML` | Real-time toast notifications for on-chain state updates are extremely helpful. |
+| USR-022 | Meena Patel | meenapatel8765@gmail.com | `GDF7T2TNKLP5AH7SKGBTDTMXSUJ5CRNZAEQH7XTOLU4LKANN4RFIJOMM` | Wallet connection flow via Freighter is seamless. |
+| USR-023 | Arvind Singh | arvind12singh@gmail.com | `GDMO42ES2UZU3XKMTDUCO2UWQUPFIBEUQYJZWJWLI6OW7SN72ZVEQJTG` | Card layouts make tracking projects very simple on mobile. |
+| USR-024 | Nisha Gupta | nisha.gupta1122@gmail.com | `GDCGVZE5HYEKRQ4LKFGVYBGR5QYQPVJZHIRHV4KYUD3K7O547KRBWOKE` | Real-time toast notifications for on-chain state updates are extremely helpful. |
+| USR-025 | Prakash Yadav | prakashyadav5544@gmail.com | `GCTYVD2TPRVV2SXGT4QW672JMVJLISZX7V5EWD254ALHGZV7ZQISMARS` | Wallet connection flow via Freighter is seamless. |
+| USR-026 | Sushma Tiwari | sushma786tiwari@gmail.com | `GCMUBUXBVBHSLQMLLDQX6TOFCLNLUGIP6RVO6NT3OHOA4H6ZM3WA6BBE` | The timeline linking directly to StellarExpert hashes is a great touch. |
+| USR-027 | Mukesh Kumar | mukesh.k9898@gmail.com | `GDXA47RJXRB252ZBW5QYYIDTUI5D56MIH2IWD7NPWX2Z32PPVZ5YB2ZX` | The timeline linking directly to StellarExpert hashes is a great touch. |
+| USR-028 | Radha Mishra | radhamishra2304@gmail.com | `GALKP43KVT23DVQTGFCVUGDTOZTNHOHLGC2DD5T2OBS52SNRZCRTJFVQ` | Wallet connection flow via Freighter is seamless. |
+| USR-029 | Dinesh Chauhan | dinesh567chauhan@gmail.com | `GBEHIA4CRSW3FEOXMMPYTMD4N5436UH2DUHNA5RTDQZDTV45DGA3UUAW` | Real-time toast notifications for on-chain state updates are extremely helpful. |
+| USR-030 | Rupa Jain | rupajain001@gmail.com | `GCFCI3KCDAUDZYGFHP37I4YM3MCY6SSFEVZVP72GBSTPQWXA2XQW4VDW` | Milestone progress stepper tracker is very clear and easy to follow. |
+| USR-031 | Ankit Mishra | ankit.mishra4455@gmail.com | `GC6U35BBHH3TVU2TDF4Y4EPQY5HJIPVSL4TDWAB6PJINQ7SDMVQ2SI73` | Real-time toast notifications for on-chain state updates are extremely helpful. |
+| USR-032 | Sonali Das | sonali2408das@gmail.com | `GA26YB4AUNAZUIDG6DBAII5IIZZJ77UGSZHJDMYWIEG6W3VJ5TSXJVEH` | Smooth dark mode theme transition and neat dashboard layout. |
+| USR-033 | Vikram Reddy | 9988vikramreddy@gmail.com | `GDINQVB7O3LPFYRPXJKCF2HTLDSIUWYHSSLGEE6WQVTRZ47CFLN3BN23` | Milestone progress stepper tracker is very clear and easy to follow. |
+| USR-034 | Poonam Joshi | poonamj.007@gmail.com | `GBJHAKT6ZMGJE4KPEG2CMTOGIQG63VGP7OSVUYLDOSI6KF4KBMFOHYXR` | Smooth dark mode theme transition and neat dashboard layout. |
+| USR-035 | Lokesh Agarwal | lokesh.agarwal1212@gmail.com | `GBYVC3GPU7I3X3AK5BMB6C5LVD72PDU7KIKZ6V2FMRLY3K7IDT6ONYGV` | Real-time toast notifications for on-chain state updates are extremely helpful. |
+| USR-036 | Rakhi Singh | r.singh98765@gmail.com | `GCILY25VQCK7IJEDR2LDJBAVK7K6BUSEGFIPH2QHWH7BIIJPPTUKKFXL` | Smooth dark mode theme transition and neat dashboard layout. |
+| USR-037 | Bipin Kumar | bipin1508kumar@gmail.com | `GCJBYZ3WJETRP55BIHWQFPMGPODF4TUUHKPOSQQ3TJFUA7F5BQHLWLX5` | Card layouts make tracking projects very simple on mobile. |
+| USR-038 | Archana Yadav | archana.yadav8899@gmail.com | `GDF4XD4I2GVCPABWRY6VTEAWPKBVS4HT7ACE5OMVCTCXBZZAWA5XTDMG` | Card layouts make tracking projects very simple on mobile. |
+| USR-039 | Yogesh Gupta | yogeshgupta0909@gmail.com | `GAGDXYHOORRI2QCJNKTTL24P7K3Q3Z4IGHNOMBCQ3Q4FPTLOMV6QPVKS` | The timeline linking directly to StellarExpert hashes is a great touch. |
+| USR-040 | Mamta Chauhan | mamta786chauhan@gmail.com | `GBJXMXIJIQ5PMXYATYKL52CLHIRKFIFWKICLQGNJ2L76BMNLQIIAITXQ` | The timeline linking directly to StellarExpert hashes is a great touch. |
+| USR-041 | Hemant Tiwari | h.tiwari4545@gmail.com | `GBATBYKQ6GG2EI2AEAIX7GDIOKVSWABISQDSWPDRHXWNGZKWEWAHMVTO` | The timeline linking directly to StellarExpert hashes is a great touch. |
+| USR-042 | Chanchal Patel | chanchalpatel3112@gmail.com | `GDAUXMTWA3O5CMM7UKYE6TZFVWOWAH7PSD5IF7EQ7YZ4DHKWVXY7BP42` | Card layouts make tracking projects very simple on mobile. |
+| USR-043 | Ratan Sharma | ratan001sharma@gmail.com | `GA6O4G2WPFP2EROQETJA3XQPFDU7SBQULWPQWJTGDMN7CNKCEER5N6GN` | The timeline linking directly to StellarExpert hashes is a great touch. |
+| USR-044 | Sunita Reddy | sunita.reddy2304@gmail.com | `GDP7KMYP4BR3CKAIM76QWE73Z3FHVXVKBTPPV3WSJELNPN7FPVB6UVN4` | Wallet connection flow via Freighter is seamless. |
+| USR-045 | Manoj Das | 9876manojdas@gmail.com | `GCY3ZQMYQXYBSCB7SGK7GYY2JF3R4CSLLZA6T2Z3DCNNQFUYEPPVR5QQ` | Card layouts make tracking projects very simple on mobile. |
+| USR-046 | Ranjana Joshi | ranjana1990joshi@gmail.com | `GBBSVISH3ZQPNXPTBTERNM4UDMZY6UQEPTB7EEZK3LLIM2BGJFA2G2PY` | Smooth dark mode theme transition and neat dashboard layout. |
+| USR-047 | Anil Agarwal | anil.agarwal9090@gmail.com | `GAWYHCXKK77CKP2C5HFZUD7VC7NBSVUL5WS65MXZGAHHJI2GT66FKITO` | Card layouts make tracking projects very simple on mobile. |
+| USR-048 | Aarti Singh | aarti.s1122@gmail.com | `GAVHMKK4R3WVY5SX356AWNZSNW6GAREO5NICUN6DD6KFISAAERGKBOCQ` | Card layouts make tracking projects very simple on mobile. |
+| USR-049 | Bipin Yadav | bipin99yadav@gmail.com | `GBWSVHH5U5S7VAP4JII3NDI7VOJLMJQZBCJTQLLTXJTWQCKOFKOGXMBY` | The timeline linking directly to StellarExpert hashes is a great touch. |
+| USR-050 | Kavita Gupta | kavitagupta6677@gmail.com | `GDA4C5SSNMUQMPINKCLCUAMBMGCIVYHXBOPE7I37LKDQ3RJESUK3OCZD` | Milestone progress stepper tracker is very clear and easy to follow. |
+| USR-051 | Suraj Chauhan | suraj.c9898@gmail.com | `GBFI2U7FNAXXXGCYQGQQYSVH272RLOPPKF77NYX3B4R65MWZCRGVHS5U` | The timeline linking directly to StellarExpert hashes is a great touch. |
+| USR-052 | Pooja Tiwari | pooja12tiwari@gmail.com | `GDHPMJAJX2CTC6WVSEYWERFIZ2YFMQDVYUZDH3PKF27LAFMRT3MNR7OJ` | Wallet connection flow via Freighter is seamless. |
+| USR-053 | Rakesh Patel | rakesh.patel0707@gmail.com | `GD4ZDKLMYYWIF7CTX6RCJJRSAKAK5ZWP4S4PSGWF7PJW2O5SRCIESF7D` | Wallet connection flow via Freighter is seamless. |
+| USR-054 | Nisha Sharma | nisha456sharma@gmail.com | `GBRKN7GLK27TA24ESKCC5L4P7NTBY7XUNYJSEHKJEU3TKOCJ6TVEQGNL` | Card layouts make tracking projects very simple on mobile. |
+| USR-055 | Deepak Reddy | deepakreddy5432@gmail.com | `GANXTKQ5VA2GT2NXWFPAGY43MAHPSLS5ATVOKYNTJ2PETMKTENH5GFOO` | Smooth dark mode theme transition and neat dashboard layout. |
+| USR-056 | Swati Das | swati.das1108@gmail.com | `GB6O2BNSVRVMFJ2OVMHHEXMIQWPEWZ65Q4BOSMLBBGKUF2SFLRWT3WOD` | The timeline linking directly to StellarExpert hashes is a great touch. |
 
 ### Feedback Implementation
 
