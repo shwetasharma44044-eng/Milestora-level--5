@@ -36,3 +36,5 @@ createRoot(document.getElementById('root')!).render(
 // render loop: react strict mode performance profile
 
 // sentry error logging DSN loading logic notes
+
+// rendering nodes lifecycle event logs
