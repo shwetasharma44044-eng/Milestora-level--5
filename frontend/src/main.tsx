@@ -34,3 +34,5 @@ createRoot(document.getElementById('root')!).render(
 // theme context: trace state transitions for layout wrappers
 
 // render loop: react strict mode performance profile
+
+// sentry error logging DSN loading logic notes
