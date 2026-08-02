@@ -30,3 +30,5 @@ createRoot(document.getElementById('root')!).render(
 
 
 // telemetry: init session analytics tracking
+
+// theme context: trace state transitions for layout wrappers
