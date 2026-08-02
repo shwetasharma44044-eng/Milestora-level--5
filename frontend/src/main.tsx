@@ -28,3 +28,5 @@ createRoot(document.getElementById('root')!).render(
   </StrictMode>,
 )
 
+
+// telemetry: init session analytics tracking
