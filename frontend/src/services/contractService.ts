@@ -369,3 +369,5 @@ export async function refundMilestone(
 // error handling: detail mapping of Soroban ledger exceptions
 
 // RPC: retry policy configuration details
+
+// serialization: serialize project states before submission
